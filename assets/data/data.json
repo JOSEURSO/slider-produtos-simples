@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "name": "Kit 5 Camisetas Masculinas Básicas Manga Curta",
+        "name": "",
         "price": 42.49,
         "rating": 4,
-        "image": "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/images/1-1.webp"
+        "image": ""
     },
     {
         "id": 2,
